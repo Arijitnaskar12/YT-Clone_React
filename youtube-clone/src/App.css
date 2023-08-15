@@ -1,0 +1,40 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.searchbar input{
+  width:70%;
+  height:30px;
+  border-radius: 5px;
+  padding:5px;
+  border:1px solid #ccc;
+  font-size: 16px;
+}
+.searchbar button{
+  width:30%;
+  height:30px;
+  border-radius: 5px;
+  padding:5px;
+  border:1px solid #ccc;
+  font-size: 16px;
+}
+.videos{
+  display:flex;
+  
+}
+.video-play{
+  width:70%;
+}
+.video-list{
+  width:30%;
+
+  
+}
+iframe{
+  margin:10px;
+}
+img{
+  width:450px;
+}
